@@ -1,1 +1,1 @@
-There are some practise about c++.
+There are some practises about c++.
